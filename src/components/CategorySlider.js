@@ -55,27 +55,27 @@ const CategorySlider = ({ items = [] }) => {
 // Example Usage
 const items = [
   {
-    img: "/image/ell1.png",
+    img: "/image/ell4.png",
     title: "Packages",
     text: "Small, medium, large, oversize, overweight, and custom package requests",
   },
   {
-    img: "/image/ell2.png",
+    img: "/image/ell1.png",
     title: "Documents",
     text: "Passport delivery and filling,Visa delivery and filling, Court filings.",
   },
   {
-    img: "/image/ell4.png",
+    img: "/image/OIP.webp",
     title: "Healthcare",
     text: "Medical samples,specimen, equipment,devices and supplies.",
   },
   {
-    img: "/image/ell4.png",
+    img: "/image/ell2.png",
     title: "Floral",
-    text: "Wedding flowers, Funeral flowers, Event flowers, pop-upflowers, Custom floral requests.",
+    text: "Wedding flowers, Funeral flowers, Event flowers, Custom floral requests.",
   },
   {
-    img: "/image/ell1.png",
+    img: "/image/ell3.png",
     title: "E-commerce",
     text: "Online purchase, Amazon packages, Dropshiping.",
   },
