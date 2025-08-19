@@ -1,0 +1,676 @@
+@media only screen and (max-width: 480px) {
+  /* ----------- header css --------- */
+  header .navbar-brand img {
+    height: 30px !important;
+    width: 160px !important;
+  }
+  #header-mainredix nav {
+    height: 70px !important;
+  }
+  .logocontainer {
+    background: #fff !important;
+    padding-bottom: 20px !important;
+  }
+  header .logocontainer ul {
+    padding: 20px 0 !important;
+  }
+  header .logocontainer button:focus {
+    box-shadow: none !important;
+    border: 1px solid rgb(184 186 188 / 75%) !important;
+  }
+  /* ----------- home page --------- */
+
+  .booking-delivery {
+    padding: 20px !important;
+  }
+  .home-herobanner h1 {
+    font-size: 33px !important;
+    line-height: 135% !important;
+  }
+  .sec-innerclinet .Trusted {
+    text-align: left;
+    margin-bottom: 1rem;
+    padding: 20px;
+  }
+  .sec-innerclinet .car-container {
+    margin-bottom: 1rem;
+    padding: 20px;
+  }
+  .home-herobanner .delivery-text {
+    font-size: 14px !important;
+  }
+  .delivery-info img.point-mpdev {
+    width: 40px !important;
+    height: 35px !important;
+  }
+  .bookingformhome h2 {
+    font-size: 21px !important;
+  }
+  .bookingformhome p {
+    font-size: 15px !important;
+  }
+  .bookingformhome {
+    padding: 19px !important;
+  }
+  .home-herobanner .app-buttons {
+    display: unset !important;
+  }
+  .home-herobanner .app-download .download-text {
+    text-align: center !important;
+  }
+  .store-image {
+    width: 135px !important;
+    height: 45px !important;
+    margin: 10px 6px !important;
+  }
+  /* ---deliver slider section --- */
+  section.home-categories-slider {
+    margin-top: 1rem !important;
+  }
+  .cards-container1 {
+    margin-top: 1.5rem !important;
+  }
+  section.home-categories-slider h2 {
+    font-size: 30px !important;
+    line-height: 131% !important;
+  }
+  .slidercard h3 {
+    font-size: 20px !important;
+  }
+  .slidercard p {
+    font-size: 15px !important;
+  }
+  .redixpress-health {
+    margin-top: 1rem !important;
+  }
+  .content-helth {
+    padding: 35px 27px !important;
+  }
+  .redixpress-health .content-helth h6 {
+    font-size: 18px !important;
+  }
+  .redixpress-health .content-helth h3 {
+    font-size: 30px !important;
+    line-height: 40px !important;
+  }
+  .redixpress-health .content-helth p {
+    font-size: 16px !important;
+    line-height: 29px !important;
+    margin-top: 1rem !important;
+  }
+  .home-choose h3 {
+    font-size: 30px !important;
+    text-align: start !important;
+  }
+  .home-choose .choose-predesc p {
+    font-size: 16px !important;
+  }
+  .home-choose .choose-cardsIner img {
+    height: 270px !important;
+  }
+  .home-choose .choose-cardsIner .cho-cimg {
+    border-radius: unset !important;
+    border-top-right-radius: 12px !important;
+    border-top-left-radius: 12px !important;
+  }
+  .home-choose .choose-flipcard {
+    border-radius: unset !important;
+    border-bottom-left-radius: 12px !important;
+    border-bottom-right-radius: 12px !important;
+    height: 100% !important;
+  }
+  .maphome-section .maphome-content h3 {
+    font-size: 30px !important;
+  }
+  .maphome-section .maphome-content input {
+    width: 100% !important;
+    margin-bottom: 1rem;
+  }
+  .maphome-section .maphome-content svg.zoom-icon.ar-mdtb {
+    display: none !important;
+  }
+  .maphome-section .maphome-content form button {
+    width: 100% !important;
+  }
+  .maphome-section .maphome-content form .mtfde {
+    margin-right: 0.5rem !important;
+    margin-left: 0.5rem !important;
+  }
+  .maphome-section .maphome-content input {
+    margin-left: 0px !important;
+  }
+  .map-imgdiv img {
+    margin-top: 3rem !important;
+  }
+  .home-supchain .chain-head h2 {
+    font-size: 30px !important;
+  }
+  .home-supchain ul {
+    margin-left: 0rem !important;
+  }
+  .rediexpresspart h2 {
+    font-size: 30px !important;
+  }
+  .rediexpresspart .choosesectiontext h3 {
+    font-size: 27px !important;
+    margin-bottom: 1rem !important;
+  }
+  .rediexpresspart .choosesectiontext p {
+    font-size: 16px !important;
+  }
+  .redix-partimg {
+    text-align: end !important;
+  }
+  .deliveryimg {
+    height: 200px !important;
+    object-fit: contain !important;
+    margin-top: 1rem !important;
+  }
+  .rediexpresspart .choosesectiontext {
+    padding-left: 30px !important;
+    margin-bottom: 2rem !important;
+  }
+  .home-faqs h2 {
+    font-size: 30px !important;
+  }
+  .home-faqs p.faqs-head-red {
+    font-size: 16px !important;
+  }
+  .home-faqs {
+    margin-top: 2rem !important;
+  }
+  /* -------------- contact us page --------- */
+  .contact-banner-box h2 {
+    font-size: 32px !important;
+  }
+  .contact-banner-box {
+    padding: 30px !important;
+  }
+  .contact-banner-social {
+    display: block !important;
+  }
+  .cont-bnr-inrsub {
+    margin-bottom: 2rem !important;
+  }
+  .contact-form-box {
+    margin-top: 1.5rem !important;
+    padding: 17px !important;
+}
+.our-locations-sec h3 {
+  font-size: 30px !important;
+}
+.our-locations-sec {
+  margin-top: 2rem !important;
+}
+.our-locations-sec svg {
+  width: 55px !important;
+  height: 45px !important;
+}
+.our-locations-sec h4 {
+  font-size: 18px !important;
+  line-height: 25px !important;
+}
+.our-locations-sec p {
+  font-size: 15px !important;
+  line-height: 25px !important;
+}
+.cont-map-view {
+  margin-top: 2rem !important;
+  height: 100% !important;
+}
+.cont-map-view img {
+  height: 100% !important;
+}
+
+/* -------blog page ------- */
+.blog-banner {
+  height: 500px !important;
+  width: 100% !important;
+  position: unset !important;
+}
+.blog-banner .overlay {
+  padding-bottom: 1.5rem !important;
+}
+.blogs-content {
+  max-width: unset !important;
+  padding: 0px 5px !important;
+}
+.blog-banner h2 {
+  font-size: 32px !important;
+}
+.blog-banner h5 {
+  font-size: 14px !important;
+}
+.blog-banner p {
+  font-size: 16px !important;
+}
+.blog-content h2 {
+  font-size: 30px !important;
+}
+.blog-content {
+  margin: 2rem 0 !important;
+}
+.blog-content p {
+  font-size: 16px !important;
+}
+.blog-item .blog-item-img img {
+  height: 250px !important;
+}
+.blog-item .blog-item-data p {
+  font-size: 16px !important;
+}
+.blog-item .blog-item-data h3 a {
+  font-size: 20px !important;
+}
+
+/* -------service page ------- */
+.service-banner-section {
+  margin: 1rem 1rem 1rem 1rem !important;
+  padding: 2rem 5px 1rem 5px !important;
+}
+.service-banner-section .left-serv-bsec h2 {
+  font-size: 32px !important;
+}
+.service-banner-section .left-serv-bsec p {
+  font-size: 16px !important;
+}
+.service-banner-section .left-serv-bsec .start-btn-service {
+  margin-top: 0rem !important;
+  text-align: center !important;
+  display: inline-block !important;
+  width: 100% !important;
+}
+.right-serv-bse {
+  display: none !important;
+}
+.stats-serv-card h3 {
+  font-size: 32px !important;
+  line-height: 40px !important;
+  margin-right: unset !important;
+}
+.stats-serv-card .scds-card {
+  display: unset !important;
+}
+.stats-serv-card h5 {
+  font-size: 17px !important;
+}
+.stats-serv-card p {
+  font-size: 15px !important;
+}
+.service-exp-head h3 {
+  font-size: 30px !important;
+}
+.service-exp {
+  margin-top: 3rem !important;
+  margin-bottom: 1rem !important;
+}
+.service-exp-head p {
+  font-size: 17px !important;
+}
+.servive-explist {
+  margin: 0px 5px !important;
+}
+.servive-explist h3 {
+  font-size: 20px !important;
+}
+.servive-explist img {
+  height: 275px !important;
+  object-fit: cover !important;
+}
+.servive-explist p {
+  font-size: 15px !important;
+}
+.service-wedo {
+  padding: 20px 0 !important;
+}
+.service-wedo h2 {
+  font-size: 30px !important;
+}
+.service-wedo p {
+  font-size: 17px !important;
+}
+.serv-wedo-card {
+  padding: 22px 15px !important;
+}
+.serv-wedo-card h3 {
+  font-size: 18px !important;
+}
+.serv-wedo-card p {
+  font-size: 15px !important;
+}
+/* ------------- driver page ----------- */
+.home-herobanner {
+  padding-top: 1rem !important;
+}
+.home-herobanner .booking-delivery h2 {
+  font-size: 32px !important;
+}
+.home-herobanner .booking-delivery .btn-start-bnr {
+  width: 100% !important;
+  display: inline-block !important;
+  text-align: center !important;
+}
+.home-herobanner .booking-delivery .driver-banr-img {
+  text-align: center !important;
+  margin-top: 2rem !important;
+}
+.home-herobanner .booking-delivery .driver-banr-img img {
+  height: 250px !important;
+}
+.bookingformhome {
+  padding: 19px !important;
+  margin-top: 1rem !important;
+}
+.driver-provide-success {
+  padding: 3rem 0 41px 0 !important;
+}
+.content-prov-success h2, .redix-driverwhy h2  {
+  font-size: 30px !important;
+}
+.driver-prov-feature h4 {
+  font-size: 18px !important;
+}
+/* ------------ blog details page ------------ */
+.blog-dbcontent h2 {
+  font-size: 32px !important;
+  line-height: 45px !important;
+  margin: 1rem 0;
+}
+.blog-detail-banner {
+  padding: 35px 0 135px 0 !important;
+}
+.blog-dbcontent p {
+  font-size: 16px !important;
+}
+.blog-detail-data .blog-dimgmain img {
+  height: 240px !important;
+}
+.blog-detail-data .article-data {
+  margin: 2rem 0rem 2rem 0rem !important;
+}
+.blog-detail-data .article-data h4 {
+  font-size: 24px !important;
+}
+.blog-detail-data .article-data p, .blog-detail-data .article-data ul li {
+  font-size: 16px !important;
+}
+.blog-detail-data .article-data img {
+  width: 100% !important;
+  height: 220px !important;
+}
+.blog-detail-share ul {
+  justify-content: start !important;
+  padding-left: 0 !important;
+}
+.related-blog .related-blog-head h2 {
+  font-size: 30px !important;
+}
+.related-blog {
+  margin: 3rem 0 !important;
+}
+.related-blog .related-blog-head a {
+  margin-bottom: 2rem !important;
+}
+
+  /* -------join user mokup section ------- */
+  .terms-mokup-content h2 {
+    font-size: 30px !important;
+    line-height: 38px !important;
+    text-align: center !important;
+  }
+  .terms-mokup-content h4 {
+    margin-right: 0rem !important;
+    text-align: center !important;
+  }
+  .terms-mokup-content ul {
+    margin-bottom: 2rem !important;
+  }
+  .d-flex.-mok-inr {
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* -------------- cta section ------------ */
+  .de-xpress-home {
+    padding: 3rem 0 !important;
+  }
+  .de-xpress-home h3 {
+    font-size: 28px !important;
+    line-height: 130% !important;
+  }
+  .de-xpress-home p {
+    font-size: 18px !important;
+  }
+
+  /* --------------- policy page------------- */
+  .privacy-banner {
+    padding: 50px 0 !important;
+  }
+  .privacy-banner h2 {
+    font-size: 36px !important;
+    line-height: 44px !important;
+  }
+  .privacy-banner p {
+    font-size: 16px !important;
+    line-height: 28px !important;
+  }
+  .policy-content {
+    padding: 25px 10px !important;
+  }
+  .policy-content h3 {
+    font-size: 20px !important;
+    line-height: 30px !important;
+  }
+  .policy-content p {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
+
+  /* ------------------ footer ----------------- */
+  .newsletter-footer {
+    padding: 25px 0 15px 0 !important;
+  }
+  .news-footer-cont {
+    text-align: center !important;
+  }
+  .footer-newsletter-form {
+    text-align: center !important;
+    display: flex !important;
+  }
+  .footer-newsletter-form .news-footer-btn {
+    padding: 12px 15px !important;
+  }
+  .footer-logo h3 {
+    font-weight: 400 !important;
+    font-size: 48px !important;
+  }
+  .footer-logo img {
+    width: 143px !important;
+    height: 26px !important;
+  }
+  .footer-appnow h4 {
+    text-align: center !important;
+    font-size: 20px !important;
+  }
+  .accordion-body {
+    justify-content: center !important;
+  }
+  .footer-main-cont {
+    padding: 40px 15px 10px 15px !important;
+  }
+  .footer-bottom p,
+  .footer-bottom p a {
+    font-size: 16px !important;
+    text-align: center !important;
+  }
+}
+
+@media (max-width: 767px) and (min-width: 481px) {
+  /* ----------- header css --------- */
+  #header-mainredix nav {
+    height: 75px !important;
+    background: #fff !important;
+  }
+  .logocontainer {
+    background: #fff !important;
+    padding-bottom: 20px !important;
+  }
+  header .logocontainer ul {
+    padding: 20px 0 !important;
+  }
+  header .logocontainer button:focus {
+    box-shadow: none !important;
+    border: 1px solid rgb(184 186 188 / 75%) !important;
+  }
+
+  /* --------------- policy page------------- */
+  .privacy-banner {
+    padding: 70px 0 !important;
+  }
+  .privacy-banner h2 {
+    font-size: 38px !important;
+    line-height: 48px !important;
+  }
+  .privacy-banner p {
+    font-size: 17px !important;
+    line-height: 30px !important;
+  }
+  .policy-content {
+    padding: 35px 20px !important;
+  }
+  .policy-content h3 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+  /* -------join user mokup section ------- */
+  .terms-mokup-content h2 {
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+  }
+  .terms-mokup-content h4 {
+    margin-right: 0rem !important;
+    text-align: center !important;
+  }
+  .terms-mokup-content ul {
+    margin-bottom: 2rem !important;
+  }
+  .d-flex.-mok-inr {
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* -------------- cta section ------------ */
+  .de-xpress-home {
+    padding: 4rem 0 !important;
+  }
+  .de-xpress-home h3 {
+    font-size: 30px !important;
+  }
+  .de-xpress-home p {
+    font-size: 18px !important;
+  }
+
+  /* ------------------ footer ----------------- */
+  .news-footer-cont {
+    text-align: center !important;
+  }
+  .footer-newsletter-form {
+    justify-content: center !important;
+    display: flex !important;
+  }
+  .footer-logo h3 {
+    font-size: 60px !important;
+  }
+  .footer-appnow h4 {
+    text-align: center !important;
+  }
+  .footer-bottom p,
+  .footer-bottom p a {
+    font-size: 18px !important;
+    text-align: center !important;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+  /* ----------- header css --------- */
+  .logocontainer {
+    background: #fff !important;
+    padding-bottom: 20px !important;
+  }
+  header .logocontainer ul {
+    padding: 20px 0 !important;
+  }
+  header .logocontainer button:focus {
+    box-shadow: none !important;
+    border: 1px solid rgb(184 186 188 / 75%) !important;
+  }
+  /* --------------- policy page------------- */
+  .privacy-banner {
+    padding: 80px 0 !important;
+  }
+  .privacy-banner h2 {
+    font-size: 43px !important;
+    line-height: 50px !important;
+  }
+  .privacy-banner p {
+    font-size: 17px !important;
+    line-height: 30px !important;
+  }
+  .policy-content {
+    padding: 35px 25px !important;
+  }
+
+  /* -------join user mokup section ------- */
+  .terms-mokup-content h2 {
+    font-size: 40px !important;
+    line-height: 50px !important;
+    text-align: center !important;
+  }
+  .terms-mokup-content h4 {
+    margin-right: 0rem !important;
+    text-align: center !important;
+  }
+  .terms-mokup-content ul {
+    margin-bottom: 2rem !important;
+  }
+  .d-flex.-mok-inr {
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* -------------- cta section ------------ */
+  .de-xpress-home h3 {
+    font-size: 35px !important;
+  }
+  .de-xpress-home p {
+    font-size: 19px !important;
+  }
+
+  /* ------------------ footer ----------------- */
+  .news-footer-cont {
+    text-align: center !important;
+  }
+  .footer-newsletter-form {
+    justify-content: center !important;
+    display: flex !important;
+  }
+  .footer-logo h3 {
+    font-size: 50px !important;
+  }
+  .footer-appnow h4 {
+    text-align: center !important;
+  }
+  .footer-bottom p,
+  .footer-bottom p a {
+    font-size: 18px !important;
+    text-align: center !important;
+  }
+}
+@media (max-width: 1200px) and (min-width: 992px) {
+  /* ----------- header css --------- */
+  .navbar-nav .nav-link {
+    margin: 0px 13px !important;
+    font-size: 16px !important;
+  }
+}

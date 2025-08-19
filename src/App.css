@@ -1,0 +1,374 @@
+/*----------------header navbar section start---------------- */
+#header-mainredix nav {
+  height: 86px;
+}
+#header-mainredix {
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+#header-mainredix.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.logocontainer {
+  margin: 0 auto !important;
+}
+
+.navbar-nav .nav-link {
+  margin: 0 15px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Satoshi;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21.6px;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #101585;
+}
+
+.navbar-nav .nav-link.current-page {
+  border-bottom: 3px solid rgba(16, 21, 133, 1);
+}
+
+.loginbutton {
+  font-size: 17px !important;
+  background-color: rgba(16, 21, 133, 1) !important;
+  border-radius: 8px !important;
+  padding: 10px 30px !important;
+}
+
+.loginbutton a {
+  text-decoration: none;
+  color: white;
+}
+
+.loginbutton:hover {
+  background: rgba(223, 249, 148, 1) !important;
+}
+.loginbutton:hover a {
+  color: rgba(0, 0, 0, 1) !important;
+}
+
+/* ----------------- footer ---------------- */
+
+/* ---------- newsletter -------- */
+.newsletter-footer {
+  padding: 45px 0 15px 0;
+  background: #f6f7ff;
+}
+.news-footer-cont {
+  text-align: start;
+}
+.footer-newsletter-form {
+  text-align: end;
+}
+.news-footer-cont h3 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: rgba(16, 24, 40, 1);
+}
+.news-footer-cont p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: rgba(71, 84, 103, 1);
+}
+.footer-newsletter-form input {
+  width: 274px;
+  height: 50px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(208, 213, 221, 1);
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+.footer-newsletter-form input:focus-visible {
+  outline: none;
+}
+
+.footer-newsletter-form .news-footer-btn {
+  border-radius: 8px;
+  border: none;
+  padding: 12px 18px;
+  background: rgba(0, 0, 0, 1);
+  color: #fff;
+  margin: 0 10px;
+  transition: background-color 0.3s ease;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+
+.footer-newsletter-form .news-footer-btn:hover {
+  background: rgba(223, 249, 148, 1);
+  color: #000;
+}
+
+/* --------------- details main------------------- */
+.footer-main-cont {
+  padding: 50px 0;
+}
+.footer-logo h3 {
+  font-weight: 500;
+  font-size: 5rem;
+  line-height: 100%;
+  color: rgba(18, 18, 18, 1);
+}
+.footer-logo img {
+  margin: 2rem 0;
+  height: 40px;
+}
+.footer-company h4,
+.footer-information h4,
+.footer-support h4,
+.footer-appnow h4 {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.57);
+}
+.footer-company,
+.footer-information,
+.footer-support,
+.footer-appnow {
+  margin-bottom: 2rem;
+}
+
+.footer-cont-links {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+  text-decoration: none;
+  padding: 9px 0;
+  transition: color 0.3s ease-in-out;
+}
+
+.footer-cont-links:hover {
+  color: rgba(16, 21, 133, 1);
+}
+.footer-cont-links::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  width: 0%;
+  height: 2px;
+  background-color: rgba(16, 21, 133, 1);
+  transition: width 0.3s ease-in-out;
+}
+.footer-cont-links:hover::after {
+  width: 80%;
+}
+.footer-appnow img {
+  width: 132px;
+  height: 44px;
+  border-radius: 6.63px;
+  border-width: 1.11px;
+  margin: 0 5px;
+}
+.footer-support img {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+
+/* ----footer bottom --------------- */
+.footer-bottom {
+  padding: 15px 0;
+  border-top: 1px solid rgba(234, 236, 240, 1);
+}
+.footer-bottom p,
+.footer-bottom p a {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: rgba(102, 112, 133, 1);
+}
+
+.footer-bottom-links {
+  padding: 0 10px;
+  width: 24px;
+  height: 24px;
+}
+
+/* ------------- site scroll up button css ------------ */
+#progress {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  height: 60px;
+  width: 60px;
+  display: none;
+  z-index: 999 !important;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+#progress-value {
+  display: block;
+  height: calc(100% - 15px);
+  width: calc(100% - 15px);
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 25px;
+  color: #001a2e;
+}
+/* ----------------- site Loader ------------ */
+.loader-wrapper {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  transition: 0.8s 1s ease;
+  z-index: 666;
+}
+.loader {
+position: relative;
+display: block;
+z-index: 201;
+top: 50%;
+left: 50%;
+width: 100px;
+height: 100px;
+margin: -50px 0 0 -50px;
+border-radius: 50%;
+transition: all 1s 1s ease;
+border: 3px solid transparent;
+border-top-color: #0C5ADB;
+-webkit-animation: spin 1.5s linear infinite;
+-moz-animation: spin 1.5s linear infinite;
+-o-animation: spin 1.5s linear infinite;
+animation: spin 1.5s linear infinite;
+}
+.loader:before {
+position: absolute;
+content: '';
+top: 6px;
+left: 6px;
+right: 6px;
+bottom: 6px;
+border-radius: 50%;
+border: 3px solid transparent;
+border-left-color: #730FD7;
+-webkit-animation: spin 2s linear infinite;
+-moz-animation: spin 2s linear infinite;
+-o-animation: spin 2s linear infinite;
+animation: spin 2s linear infinite;
+}
+.loader:after {
+position: absolute;
+content: '';
+top: 15px;
+left: 15px;
+right: 15px;
+bottom: 15px;
+border-radius: 50%;
+border: 3px solid transparent;
+border-right-color: #FE6C04;
+-webkit-animation: spin 2.5s linear infinite;
+-moz-animation: spin 2.5s linear infinite;
+-o-animation: spin 2.5s linear infinite;
+animation: spin 2.5s linear infinite;
+}
+
+/** Here comes the Magic **/
+@-webkit-keyframes spin {
+0% {
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+100% {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+}
+@-moz-keyframes spin {
+0% {
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+100% {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+}
+@keyframes spin {
+0% {
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+100% {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+}
+.loader-wrapper .loder-section {
+  position: fixed;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  background: #111;
+  z-index: 2;
+}
+.loader-wrapper .loder-section.left-section {
+left: 0;
+transition: 1s 1.4s ease;
+}
+.loader-wrapper .loder-section.right-section {
+right: 0;
+transition: 1s 1.4s ease;
+}
+/** When page loaded **/
+.loaded .loder-section.left-section {
+left: -100%;
+}
+.loaded .loder-section.right-section {
+right: -100%;
+}
+.loaded .loader-wrapper {
+visibility: hidden;
+}
+.loaded .loader {
+top: -100%;
+opacity: 0;
+}
