@@ -1,15 +1,15 @@
 @media only screen and (max-width: 480px) {
   /* ----------- header css --------- */
   header .navbar-brand img {
-    height: 30px !important;
-    width: 160px !important;
+    height: 50px !important;
+    /* width: 160px !important; */
   }
   #header-mainredix nav {
     height: 70px !important;
   }
   .logocontainer {
     background: #fff !important;
-    padding-bottom: 20px !important;
+    /* padding-bottom: 20px !important; */
   }
   header .logocontainer ul {
     padding: 20px 0 !important;
