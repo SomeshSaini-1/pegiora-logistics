@@ -9,7 +9,7 @@ const Service = () => {
       id: 1,
       title: "Achieving 99.9% On-Time Delivery Rate",
       description:
-        "With a 99.9% on-time delivery rate, Redi Xpress Logistics has built a reputation for speed and precision. Whether handling medical specimens, urgent documents, or high-value shipments, we guarantee that every package arrives on schedule and in perfect condition.",
+        "With a 99.9% on-time delivery rate, Pegiora has built a reputation for speed and precision. Whether handling medical specimens, urgent documents, or high-value shipments, we guarantee that every package arrives on schedule and in perfect condition.",
       link: "#",
       image: "/image/service1.png",
     },
@@ -25,7 +25,7 @@ const Service = () => {
       id: 3,
       title: "Expanding Global Reach to 50+ Countries",
       description:
-        "Extending our global footprint to over 50 countries, we're connecting businesses worldwide, fostering Through strategic partnerships and enhanced logistics networks, Redi Xpress Logistics expanded to 50+ countries, connecting businesses and ensuring seamless cross-border trade. Our 24/7 operations make international shipping fast, reliable, and hassle-free.growth, and facilitating seamless cross-border trade",
+        "Extending our global footprint to over 50 countries, we're connecting businesses worldwide, fostering Through strategic partnerships and enhanced logistics networks, Pegiora expanded to 50+ countries, connecting businesses and ensuring seamless cross-border trade. Our 24/7 operations make international shipping fast, reliable, and hassle-free.growth, and facilitating seamless cross-border trade",
       link: "#",
       image: "/image/service3.png",
     },
@@ -93,8 +93,8 @@ const Service = () => {
               <div className="left-serv-bsec">
                 <h2>Reliable, Fast, and Secure Logistics Services</h2>
                 <p>
-                  From medical courier services to e-commerce deliveries, Redi
-                  Xpress Logistics ensures seamless, 24/7 shipping tailored to
+                  From medical courier services to e-commerce deliveries, Pegiora 
+                   ensures seamless, 24/7 shipping tailored to
                   your needs.
                 </p>
                 <Link to="https://redixpresslogistics.com/courier/public" target="_blank" className="start-btn-service">

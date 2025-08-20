@@ -228,7 +228,7 @@ const Layout = () => {
                             alt="App Store"
                           />
                         </span>{" "}
-                        info@Pegioralogistics.com
+                        info@Pegiora.com
                       </Link>
                       <Link className="footer-cont-links" href="#">
                         <span>

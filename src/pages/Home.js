@@ -811,7 +811,7 @@ const Home = () => {
               <div className="choosesectiontext">
                 <h3>Be Our Partner</h3>
                 <p className="card-text">
-                  Pegiora Logistics, a leading logistics shipping company, is
+                  Pegiora , a leading logistics shipping company, is
                   actively seeking partners to expand our global reach. Join us
                   to leverage our advanced shipping solutions,{" "}
                 </p>

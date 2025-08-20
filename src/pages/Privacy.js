@@ -13,7 +13,7 @@ const Privacy = () => {
       <section className="policy-content">
         <div className="container">
           <p>
-            Welcome to Redi Xpress Logistics Inc. ("Company," "we," "us," or
+            Welcome to Pegiora Inc. ("Company," "we," "us," or
             "our"). This Privacy Policy is designed to inform you about how we
             collect, use, disclose, and safeguard your personal information when
             you interact with our mobile application and website ("Platform").
@@ -123,8 +123,8 @@ const Privacy = () => {
           <h3>Third-Party Services</h3>
           <p>
             Our Platform may contain links to third-party websites,
-            applications, or services that are not owned or controlled by Redi
-            Xpress Logistics Inc. This Privacy Policy does not apply to the
+            applications, or services that are not owned or controlled by Pegiora 
+             Inc. This Privacy Policy does not apply to the
             practices of these third parties. We strongly recommend that you
             read the privacy policies of any third-party platforms you visit or
             use.
@@ -237,7 +237,7 @@ const Privacy = () => {
               target="_blank"
               style={{ color: "rgb(251, 150, 120)" }}
             >
-              &nbsp; info@pegioralogistics.com
+              &nbsp; info@pegiora.com
             </a>
           </p>
 
@@ -246,7 +246,7 @@ const Privacy = () => {
 
           <h3>Introduction</h3>
           <p>
-            Welcome to Redi Xpress Logistics Inc. ("Company," "we," "us," or
+            Welcome to Pegiora Inc. ("Company," "we," "us," or
             "our"). This Cookie Policy explains how we use cookies and similar
             technologies to recognize you when you visit our mobile application
             and website ("Platform"). It explains what these technologies are
@@ -360,7 +360,7 @@ const Privacy = () => {
               target="_blank"
               style={{ color: "rgb(251, 150, 120)" }}
             >
-              info@pegioralogistics.com
+              info@pegiora.com
             </a>
           </p>
 
@@ -368,7 +368,7 @@ const Privacy = () => {
           <h3 className="text-center">SHIPPING AND REFUND POLICY</h3>
           <p>
             <h3>Introduction</h3>
-            Welcome to Redi Xpress Logistics Inc. ("Company," "we," "us," or
+            Welcome to Pegiora Inc. ("Company," "we," "us," or
             "our"). This combined Shipping and Refund Policy ("Policy") governs
             the shipping and refund practices related to the courier delivery
             services ("Services") offered through our mobile application and
@@ -378,8 +378,8 @@ const Privacy = () => {
           </p>
           <p>
             <h3>Scope of Services</h3>
-            This Policy applies to all shipping services provided by Redi Xpress
-            Logistics Inc., including but not limited to, local, national, and
+            This Policy applies to all shipping services provided by Pegiora 
+             Inc., including but not limited to, local, national, and
             future international shipping services. Our Services facilitate the
             transportation of goods, including medical supplies and e-commerce
             products, but exclude the delivery of food items. By using our
@@ -480,8 +480,8 @@ const Privacy = () => {
           </p>
           <p>
             <h3>Indemnification Clause</h3>
-            You agree to indemnify, defend, and hold harmless Redi Xpress
-            Logistics Inc., its officers, directors, employees, and agents.
+            You agree to indemnify, defend, and hold harmless 
+            Pegiora Inc., its officers, directors, employees, and agents.
           </p>
           <p>
             <h3>Governing Law</h3>
@@ -519,7 +519,7 @@ const Privacy = () => {
               target="_blank"
               style={{ color: "rgb(251, 150, 120)" }}
             >
-              info@pegioralogistics.com
+              info@pegiora.com
             </a>
           </p>
 
@@ -528,7 +528,7 @@ const Privacy = () => {
         
             <h3>Introduction</h3>
             <p>
-            Welcome to Redi Xpress Logistics Inc. ("Company," "we," "us," or
+            Welcome to Pegiora Inc. ("Company," "we," "us," or
             "our"). This Copyright Policy ("Policy") is designed to inform you
             about our practices regarding the protection of our intellectual
             property, including but not limited to our mobile application,
@@ -541,8 +541,8 @@ const Privacy = () => {
             <p>
             All content, features, and functionality on our Platform, including
             but not limited to text, graphics, logos, icons, images, audio
-            clips, and software, are the exclusive property of Redi Xpress
-            Logistics Inc. and are protected by United States and international
+            clips, and software, are the exclusive property of Pegiora
+             Inc. and are protected by United States and international
             copyright laws.
           </p>
             <h3>Prohibition Against Unauthorized Use</h3>
@@ -563,7 +563,7 @@ const Privacy = () => {
               target="_blank"
               style={{ color: "rgb(251, 150, 120)" }}
             >
-              info@pegioralogistics.com
+              info@pegiora.com
             </a>
           </p>
           <p>
@@ -575,8 +575,8 @@ const Privacy = () => {
           </p>
           <p>
             <h3>Indemnification</h3>
-            You agree to indemnify, defend, and hold harmless Redi Xpress
-            Logistics Inc., its officers, directors, employees, agents,
+            You agree to indemnify, defend, and hold harmless Pegiora 
+            Inc., its officers, directors, employees, agents,
             licensors, and suppliers from and against all losses, expenses,
             damages, and costs, including reasonable attorneys' fees, resulting
             from any violation of this Policy or any activity related to your
@@ -609,10 +609,10 @@ const Privacy = () => {
           </p>
           <p>
             <h3>Waiver and Severability</h3>
-            No waiver by Redi Xpress Logistics Inc. of any term or condition set
+            No waiver by Pegiora Inc. of any term or condition set
             forth in this Policy shall be deemed a further or continuing waiver
             of such term or condition or a waiver of any other term or
-            condition, and any failure of Redi Xpress Logistics Inc. to assert a
+            condition, and any failure of Pegiora Inc. to assert a
             right or provision under this Policy shall not constitute a waiver
             of such right or provision.
           </p>
@@ -625,14 +625,14 @@ const Privacy = () => {
               target="_blank"
               style={{ color: "rgb(251, 150, 120)" }}
             >
-              info@pegioralogistics.com
+              info@pegiora.com
             </a>
           </p>
           <p>
             <h3>Entire Agreement</h3>
             This Copyright Policy and any other legal notices published by us on
             the Platform shall constitute the entire agreement between you and
-            Redi Xpress Logistics Inc. concerning the use and protection of
+            Pegiora Inc. concerning the use and protection of
             intellectual property related to our Platform.
           </p>
         </div>

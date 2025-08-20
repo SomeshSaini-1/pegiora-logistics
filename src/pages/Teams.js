@@ -13,7 +13,7 @@ const Teams = () => {
       <section className="policy-content">
         <div className="container">
           <p>
-            Welcome to Redi Xpress Logistics Inc. ("Company," "we," "us," or
+            Welcome to Pegiora Inc. ("Company," "we," "us," or
             "our"). These Terms and Conditions ("Terms") govern your access to
             and use of our mobile application and website ("Platform"), as well
             as the courier delivery services ("Services") offered through the
@@ -36,8 +36,7 @@ const Teams = () => {
             <b>Service:</b> The courier delivery services offered through the
             Platform, specifically focusing on medical supplies and e-commerce
             products. <br />
-            <b>Platform:</b> The mobile application and website operated by Redi
-            Xpress Logistics Inc.
+            <b>Platform:</b> The mobile application and website operated by Pegiora Inc.
           </p>
 
           <h3>Acceptance of Terms</h3>
@@ -50,7 +49,7 @@ const Teams = () => {
           </p>
           <h3>Modification of Terms</h3>
           <p>
-            Redi Xpress Logistics Inc. reserves the right to modify, amend, or
+            Pegiora Inc. reserves the right to modify, amend, or
             update these Terms at any time and for any reason. Changes will be
             effective immediately upon posting on the Platform. Your continued
             use of the Platform and Services after such modifications will
@@ -83,7 +82,7 @@ const Teams = () => {
           </p>
           <h3>Service Description</h3>
           <p>
-            Redi Xpress Logistics Inc. offers a courier delivery service through
+            Pegiora Inc. offers a courier delivery service through
             its Platform. The Service is designed to facilitate the delivery of
             medical supplies and e-commerce products. It does not include food
             delivery. For details on shipping and refunds, please refer to our
@@ -102,8 +101,8 @@ const Teams = () => {
           <p>
             Upon confirmation of your delivery request, a Driver will be
             assigned to fulfill the delivery. You will be provided with
-            real-time tracking and status updates through the Platform. Redi
-            Xpress Logistics Inc. is not responsible for any delays caused by
+            real-time tracking and status updates through the Platform. 
+            Pegiora Inc. is not responsible for any delays caused by
             factors beyond our control, including but not limited to traffic,
             weather, or mechanical failures.
           </p>
@@ -111,9 +110,9 @@ const Teams = () => {
           <h3>Driver Requirements</h3>
           <p>
             All Drivers are subject to a thorough background check and must meet
-            the qualifications set forth by Redi Xpress Logistics Inc. Drivers
-            are independent contractors and are not employees of Redi Xpress
-            Logistics Inc. They are solely responsible for the delivery services
+            the qualifications set forth by Pegiora Inc. Drivers
+            are independent contractors and are not employees of 
+            Pegiora Inc. They are solely responsible for the delivery services
             they provide.
           </p>
 
@@ -148,8 +147,8 @@ const Teams = () => {
           </p>
           <h3>Limitation of Liability</h3>
           <p>
-            To the fullest extent permitted by applicable law, Redi Xpress
-            Logistics Inc. shall not be liable for any indirect, incidental,
+            To the fullest extent permitted by applicable law, 
+            Pegiora Inc. shall not be liable for any indirect, incidental,
             special, consequential, or punitive damages, or any loss of profits
             or revenues, whether incurred directly or indirectly, or any loss of
             data, use, goodwill, or other intangible losses, resulting from your
@@ -157,8 +156,8 @@ const Teams = () => {
           </p>
           <h3>Indemnification</h3>
           <p>
-            You agree to indemnify, defend, and hold harmless Redi Xpress
-            Logistics Inc., its officers, directors, employees, agents, and
+            You agree to indemnify, defend, and hold harmless 
+            Pegiora Inc., its officers, directors, employees, agents, and
             third parties, for any losses, costs, liabilities, and expenses
             (including reasonable attorneys' fees) relating to or arising out of
             your use of or inability to use the Platform or Services, your
@@ -169,7 +168,7 @@ const Teams = () => {
           <h3>Intellectual Property</h3>
           <p>
             All content, trademarks, services marks, trade names, logos, and
-            icons are the property of Redi Xpress Logistics Inc. or its
+            icons are the property of Pegiora Inc. or its
             affiliates or agents and are protected by copyright laws and
             international treaties and provisions. You agree not to delete the
             copyright or other proprietary rights notice from any content.
@@ -177,14 +176,14 @@ const Teams = () => {
           <h3>Third-Party Services</h3>
           <p>
             The Platform may contain links to third-party websites or services
-            that are not owned or controlled by Redi Xpress Logistics Inc. We
+            that are not owned or controlled by Pegiora Inc. We
             have no control over, and assume no responsibility for, the content,
             privacy policies, or practices of any third-party websites or
             services.
           </p>
           <h3>Termination of Account</h3>
           <p>
-            Redi Xpress Logistics Inc. reserves the right to terminate or
+            Pegiora Inc. reserves the right to terminate or
             suspend your Account and access to the Platform and Services for
             conduct that we believe violates these Terms or is harmful to other
             users of the Platform, us, or third parties, or for any other
@@ -198,7 +197,7 @@ const Teams = () => {
           </p>
           <h3>Non-Discrimination Policy</h3>
           <p>
-            Redi Xpress Logistics Inc. is committed to providing an inclusive
+            Pegiora Inc. is committed to providing an inclusive
             and welcoming environment for all users of the Platform and
             Services. We do not discriminate on the basis of race, color,
             religion, gender, gender expression, age, national origin,
@@ -206,7 +205,7 @@ const Teams = () => {
           </p>
           <h3>Safety Measures</h3>
           <p>
-            Redi Xpress Logistics Inc. prioritizes the safety of all Users and
+            Pegiora Inc. prioritizes the safety of all Users and
             Drivers. We implement various safety protocols and measures, but we
             cannot guarantee absolute safety. You agree to use the Platform and
             Services at your own risk.
@@ -214,7 +213,7 @@ const Teams = () => {
           <h3>Feedback and Reviews</h3>
           <p>
             Users are encouraged to provide feedback and reviews about the
-            Services. By submitting feedback, you grant Redi Xpress Logistics
+            Services. By submitting feedback, you grant Pegiora 
             Inc. the right to use, publish, and modify your feedback for any
             purpose without any obligation to compensate you.
           </p>
@@ -228,7 +227,7 @@ const Teams = () => {
           <h3>Contact Information</h3>
           <p>
             For any questions about these Terms, the Platform, or the Services,
-            please contact us at info@pegioralogistics.com.
+            please contact us at info@pegiora.com.
           </p>
         </div>
       </section>
