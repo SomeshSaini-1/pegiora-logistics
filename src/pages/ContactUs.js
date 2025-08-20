@@ -152,7 +152,7 @@ const ContactUs = () => {
                       <IoIosCall />
                     </div>
                     <h4>Phone</h4>
-                    <p>+1 866-540-7194</p>
+                    <p>+1 866-261-9814</p>
                   </div>
                 </div>
               </div>

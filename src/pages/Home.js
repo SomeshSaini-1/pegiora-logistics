@@ -59,7 +59,7 @@ const Home = () => {
     {
       question: "How can I contact customer support?",
       answer:
-        "You can reach us by phone at +1 866-540-7194 or email us through our contact page. Our team is available 24/7 to assist you.",
+        "You can reach us by phone at +1 866-261-9814 or email us through our contact page. Our team is available 24/7 to assist you.",
     },
   ];
   // section7----faq section-----start----------
@@ -866,7 +866,7 @@ const Home = () => {
                 <span>
                   <img src="/image/call-gif.gif" alt="faqs" />
                 </span>
-                +1 866-540-7194
+                +1 866-261-9814
               </p>
               <h5 className="text-gray-600 mt-4">Location</h5>
               <p className="text-gray-800 faq-contact-homedd">

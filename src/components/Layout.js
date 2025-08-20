@@ -237,7 +237,7 @@ const Layout = () => {
                             alt="App Store"
                           />
                         </span>
-                        +1 866-540-7194
+                        +1 866-261-9814
                       </Link>
                       <Link className="footer-cont-links" href="#">
                         <span>
